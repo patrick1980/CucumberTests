@@ -1,2 +1,2 @@
 # CucumberTests
-Environment to setup cucumber setup for service automation test cases
+Environment to setup cucumber for service automation test cases
